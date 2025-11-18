@@ -59,6 +59,24 @@ Una simple aplicación web para gestionar denuncias ciudadanas.
     - Para editar una denuncia, haga clic en el botón "Editar" en la lista de denuncias.
     - Para eliminar una denuncia, haga clic en el botón "Eliminar" en la lista de denuncias.
 
-5. Interfaz de usuario:
-   
-    ![Interfaz de usuario](media/pag-denunciasMunicipalidad.png)
+## Interfaz de usuario
+
+### Listar denuncias
+
+![Interfaz de usuario](media/pag-denunciasMunicipalidad.png)
+
+### Crear denuncia
+
+![Interfaz de usuario](media/pag-crearDenuncia.png)
+
+### Editar denuncia
+
+![Interfaz de usuario](media/pag-editarDenuncia.png)
+
+### Eliminar denuncia
+
+![Interfaz de usuario](media/pag-eliminarDenuncia.png)
+
+### Buscar denuncia
+
+![Interfaz de usuario](media/pag-buscarDenuncia.png)
